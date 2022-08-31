@@ -1,0 +1,20 @@
+h1 {
+    color: blue
+}
+
+input {
+    width: 300px;
+    height: 30px;
+}
+
+select {
+    width: 300px;
+    height: 100px;
+    color: royalblue
+}
+
+textarea {
+    width: 500px;
+    height: 100px;
+    color: royalblue
+}

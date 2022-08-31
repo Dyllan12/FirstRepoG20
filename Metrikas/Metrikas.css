@@ -1,0 +1,23 @@
+body{
+    background-image: url(./img/libreria.jpeg);
+}
+
+.container{
+    width: '100%';
+    height: 500px;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    margin: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    width: 600px;
+    height: 300px;
+    border-width: 1;
+    background-color: black;
+    margin: 10px;
+}
